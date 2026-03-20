@@ -1,4 +1,5 @@
 {
   "version": "0.6.2",
-  "description": "新增OCR图片敏感词识别功能\n文件后缀名检查优化\n修复已知bug\n建议所有用户更新，如未在在线脚本看到，就是还在审核，请耐心等待"
+  "description": "新增OCR图片敏感词识别功能\n文件后缀名检查优化\n修复已知bug\n建议所有用户更新，如未在在线脚本看到，就是还在审核，请耐心等待，您也可点击更新按钮手动更新"
+  "url":"https://pan.znvd.cn/pages/dashboard/generate_download_token.php?file_id=81"
 }
